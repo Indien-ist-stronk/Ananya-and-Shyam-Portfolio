@@ -16,5 +16,6 @@ https://www.khaleejtimes.com/uae/education/uae-students-honoured-with-diana-awar
 
 https://www.khaleejtimes.com/uae/uae-student-diana-award-recipients-say-they-will-continue-doing-more-for-society
 
+https://www.facebook.com/dpsshj/photos/-sastra-pratibha-awards-20252026-delhi-private-school-sharjah-proudly-celebrates/1670646208118344/
 
 https://gulfnews.com/gn-focus/indian-minorities-federation-marks-veer-bal-diwas-at-dubai-gurudwara-1.500008703
