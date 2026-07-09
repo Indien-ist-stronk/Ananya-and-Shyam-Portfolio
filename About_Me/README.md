@@ -1,51 +1,62 @@
-# 👋 About Me
+# 👋 Hi, We're Shyam Manikandan and Ananya Manikandan
 
-Welcome to my professional portfolio.
+### AI • Innovation • Sustainability • Research • Filmmaking • Creative Arts • Youth Leadership
 
-I am a student innovator passionate about combining Artificial Intelligence, sustainability, scientific research and creativity to solve real-world problems.
-
-My work spans multiple disciplines including AI innovation, environmental leadership, mental health advocacy, filmmaking, research, public speaking and community service.
-
-Instead of focusing on one field, I enjoy integrating technology with creativity to develop solutions that create measurable social impact.
-
-This portfolio documents my projects, achievements, awards, research interests and leadership journey.
+> *"Designing AI-driven solutions that create meaningful impact in healthcare, sustainability and society."*
 
 ---
 
-## Professional Summary
+# 🌍 About Us
 
-✔ AI Innovation
+Welcome to our professional portfolio.
 
-✔ Sustainable Development
+We are students passionate about Artificial Intelligence, innovation, sustainability, scientific research, engineering, filmmaking, creative arts, and social impact. Our journey is driven by the belief that technology and creativity can work together to solve real-world challenges while improving lives and protecting our planet.
 
-✔ Scientific Research
+Over the years, we have developed AI-driven innovation projects, led environmental initiatives, produced internationally recognised films, published books, created original music, participated in global competitions, and actively contributed to community service.
 
-✔ Environmental Leadership
-
-✔ Mental Health Advocacy
-
-✔ AI-assisted Filmmaking
-
-✔ Creative Arts
-
-✔ Community Impact
-
-✔ Public Speaking
-
-✔ Student Leadership
+This repository serves as a comprehensive record of our projects, achievements, leadership experiences, research interests, awards, and future aspirations.
 
 ---
 
-## Mission
+# 🌟 What You'll Find
 
-To design responsible AI-driven solutions that improve healthcare, education, environmental sustainability and human well-being.
+- Artificial Intelligence & Innovation Projects
+- Sustainability Initiatives
+- Scientific Research
+- Environmental Leadership
+- AI-assisted Filmmaking
+- Creative Arts
+- Publications
+- Awards & Recognition
+- Community Impact
+- Leadership Journey
 
 ---
 
-## Vision
+# 🎯 Our Mission
 
-To become an interdisciplinary researcher developing ethical technologies that contribute towards global sustainable development.
+To develop innovative, ethical, and sustainable AI-driven solutions that improve healthcare, education, environmental sustainability, and human well-being while inspiring positive social change through research, creativity, and leadership.
 
 ---
 
-Continue exploring this portfolio to learn more about my projects and journey.
+# 🔭 Our Vision
+
+To become interdisciplinary researchers and innovators who combine Artificial Intelligence, engineering, scientific research, and creativity to develop technologies that address global challenges and contribute towards the United Nations Sustainable Development Goals (SDGs).
+
+---
+
+# 💡 Our Core Values
+
+- Innovation
+- Integrity
+- Sustainability
+- Scientific Curiosity
+- Creativity
+- Leadership
+- Collaboration
+- Lifelong Learning
+- Social Responsibility
+
+---
+
+Thank you for visiting our portfolio. We hope our work demonstrates our commitment to creating meaningful and lasting impact through innovation, research, and responsible leadership.
