@@ -65,6 +65,7 @@ I aspire to build technologies that improve lives while contributing towards the
 - International Film Festivals
 - AI-assisted Filmmaking
 - Film Screenings
+- Our film making Journey: https://youtu.be/gywVB1T7_Lk?si=dalndWEeN6mZAPG4
 
 
 ---
