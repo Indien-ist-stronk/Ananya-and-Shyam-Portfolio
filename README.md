@@ -2,11 +2,11 @@
 
 ### AI • Innovation • Sustainability • Research • Filmmaking • Creative Arts • Youth Leadership
 
-> *"Designing AI-driven solutions that create meaningful impact in healthcare, sustainability and society."*
+> *"Designing AI-driven solutions that create meaningful impact in sustainability and society."*
 
 ---
 
-# 🌍 About Me
+# 🌍 About Us
 
 We are high school students passionate about Artificial Intelligence, Sustainable Innovation, Engineering, Environmental Science, Mental Health Advocacy, Research and Creative Storytelling.
 
