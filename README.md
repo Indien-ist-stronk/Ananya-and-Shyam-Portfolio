@@ -8,11 +8,11 @@
 
 # 🌍 About Me
 
-I we a high school student passionate about Artificial Intelligence, Sustainable Innovation, Engineering, Environmental Science, Mental Health Advocacy, Research and Creative Storytelling.
+We are high school students passionate about Artificial Intelligence, Sustainable Innovation, Engineering, Environmental Science, Mental Health Advocacy, Research and Creative Storytelling.
 
 Our work combines technology, scientific thinking and creativity to solve real-world challenges through AI-driven innovation, environmental leadership, filmmaking and community impact.
 
-Over the past few years We have led multiple student initiatives, developed award-winning innovation projects, produced internationally recognised AI-assisted films, published books, created music, and represented youth leadership at national and international platforms.
+Over the past few years we have led multiple student initiatives, developed award-winning innovation projects, produced internationally recognised AI-assisted films, published books, created music, and represented youth leadership at national and international platforms.
 
 ---
 
@@ -43,9 +43,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - Dubai Future Foundation
 - Future AI Research
 
-➡️ Folder:
-03_AI_and_Innovation_Projects
-
 ---
 
 ## 🌱 Sustainability
@@ -56,21 +53,19 @@ I aspire to build technologies that improve lives while contributing towards the
 - Climate Campaigns
 - SDG Initiatives
 
-➡️ Folder:
-04_Sustainability_and_Environment
 
 ---
 
 ## 🎬 Filmmaking
 
 - Future Override
+  Award-winning AI-assisted science fiction film exploring ethical AI, sustainability, and humanity's future.
+
 - International AI Film Awards
 - International Film Festivals
 - AI-assisted Filmmaking
 - Film Screenings
 
-➡️ Folder:
-05_Filmmaking_Portfolio
 
 ---
 
@@ -81,8 +76,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - Stage Performances
 - Creative Productions
 
-➡️ Folder:
-06_Creative_Arts
 
 ---
 
@@ -92,8 +85,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - VOFG International
 - Sharjah International Book Fair
 
-➡️ Folder:
-07_Publications_and_Author_Work
 
 ---
 
@@ -106,9 +97,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - Sastra Pratibha (5 Years)
 - International AI Film Awards
 
-➡️ Folder:
-08_Awards_and_Recognition
-
 ---
 
 ## 👨‍💼 Leadership
@@ -119,9 +107,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - Community Leadership
 - Volunteer Work
 
-➡️ Folder:
-09_Leadership
-
 ---
 
 ## ❤️ Community Impact
@@ -131,9 +116,6 @@ I aspire to build technologies that improve lives while contributing towards the
 - Sustainability Projects
 - Community Outreach
 - SDG Impact
-
-➡️ Folder:
-10_Community_Impact_and_KPI
 
 ---
 
@@ -290,25 +272,6 @@ AI-assisted Filmmaking
 Research
 
 Creative Arts
-
----
-
-# 📬 Connect With Me
-
-LinkedIn:
-[Add Link]
-
-GitHub:
-[Add Link]
-
-YouTube:
-[Add Link]
-
-Instagram:
-[Add Link]
-
-Email:
-[Add Email]
 
 ---
 
